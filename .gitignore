@@ -1,0 +1,16 @@
+# Secrets / local config
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS / editors
+.DS_Store
+.vscode/
+
+# Generated at runtime
+logs/usage_log.json
+lineage/lineage_store.json

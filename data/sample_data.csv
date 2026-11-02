@@ -1,0 +1,7 @@
+employee_id,name,department,salary,access_level
+E001,Tejaswee Lashkare,Engineering,95000,admin
+E002,Bob Smith,Analytics,75000,analyst
+E003,Charlie Brown,Operations,45000,intern
+E004,Diana Prince,Engineering,98000,admin
+E005,Eve Johnson,Analytics,72000,analyst
+E006,Frank Miller,Operations,43000,intern
